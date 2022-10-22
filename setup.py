@@ -37,6 +37,7 @@ requirements = {
         "scikit-learn>=0.22.0",
         "pyworld>=0.2.10",
         "numba>=0.48",  # Fix No module named "numba.decorators"
+        "numpy>=1.20",
         "jamo>=0.4.1",
         "pypinyin",
         "g2pM",
