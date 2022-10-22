@@ -35,7 +35,7 @@ requirements = {
         "unidecode>=1.1.1",
         "inflect>=4.1.0",
         "scikit-learn>=0.22.0",
-        "pyworld>=0.2.10",
+        "pyworld>=0.2.10,<=0.3.0", # Bug in 0.3.1
         "numba>=0.48",  # Fix No module named "numba.decorators"
         "numpy>=1.20",
         "jamo>=0.4.1",
