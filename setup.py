@@ -45,7 +45,7 @@ requirements = {
         "click",
         "g2p_en",
         "dataclasses",
-        "pyopenjtalk==0.1.3",
+        "pyopenjtalk==0.3.0",
     ],
     "setup": ["numpy", "pytest-runner",],
     "test": [
